@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://epheshoodi.soliddevelopment.nl/sitemap.xml
